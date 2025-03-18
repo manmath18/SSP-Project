@@ -1,0 +1,17 @@
+torch
+torchvision
+protobuf
+streamlit
+altair
+click
+boto3
+Pillow
+pandas
+tqdm
+Cython
+protobuf
+tensorflow
+opencv-python-headless
+ultralytics
+matplotlib
+# tf-models-official
