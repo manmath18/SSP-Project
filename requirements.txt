@@ -14,4 +14,6 @@ tensorflow
 opencv-python-headless
 ultralytics
 matplotlib
+fastapi
+uvicorn
 # tf-models-official
